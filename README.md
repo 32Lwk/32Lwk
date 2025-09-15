@@ -31,8 +31,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=32Lwk&theme=vue-dark&show_icons=true" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=32Lwk&theme=vue-dark&show_icons=true" />
 </div>
 
 ---
