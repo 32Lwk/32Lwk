@@ -1,49 +1,47 @@
-<!-- ビューカウンター -->
+<!-- プロフィールビュー -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=32Lwk" />
+  <img src="https://komarev.com/ghpvc/?username=32Lwk&color=blueviolet&style=flat-square" />
 </div>
 
-<!-- 挨拶・自己紹介 -->
-## 👋 Hi there!
+<!-- 挨拶 -->
+## 👋 Hi there 
+Hello, I'm **Yuto Kawashima** (川嶋 宥翔),  
+a **Physics student at Nagoya University** and aspiring **AI × Physics developer**.  
 
-- 🧑‍🎓 川嶋 宥翔 (Kawashima Yuto)  
-- 🎓 名古屋大学 理学部 物理学科 2年  
-- 🔬 興味分野: 機械学習, AI, データ分析, Web開発, 物理学  
+On GitHub, I share apps, simulations, and tools I’m building while exploring  
+**Machine Learning, AI, Data Analysis, Web Development, and Physics.**  
 
 ---
 
-## 🚀 Now Working On
-- 📚 学習中の技術: **Python, JavaScript, C, AWS**  
-- 💻 プロジェクト:  
-  - アプリ開発  
-  - 機械学習を用いた医薬品推奨アプリ  
-- 🔭 趣味・活動:  
-  - テニス 🎾  
-  - ランニング 🏃‍♂️  
-  - 宇宙物理の研究 🌌  
+## 🚀 GitHub Activity
+<p align="center"> 
+  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=32Lwk&theme=tokyonight&show_icons=true" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=tokyonight&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=32Lwk&theme=tokyonight&column=7" />
+</p>
 
 ---
 
 ## 🛠️ Skills
-<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" />
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact" />
-  <br>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=32Lwk&theme=vue-dark&show_icons=true" />
-</div>
+## 📌 Featured Repositories
+- 🔬 [**n-body-simulation**](https://github.com/32Lwk/n-body-simulation) — 宇宙の大規模構造を再現するシミュレーション  
+- 💊 [**drug-recommendation-app**](https://github.com/32Lwk/drug-recommendation-app) — 機械学習を用いた医薬品推奨アプリ  
+- 🌐 [**web-dev-lab**](https://github.com/32Lwk/web-dev-lab) — Webアプリ開発の実験的リポジトリ  
 
 ---
 
 ## 📫 Contact
-- 📧 Mail: **kawashima.yuto.c2@s.mail.nagoya-u.ac.jp**  
-- 📱 Tel: **080-8537-2616**
+- 📧 Mail: **weary-scoots.7y@icloud.com**  
 
 ---
 
 ## 🌱 Fun Fact
-- 趣味: ランニング 🏃‍♂️  
-- 将来の目標: **物理とAIを融合させて、新しい研究やアプリケーションを開発すること！**
+- 🎾 テニス / 🏃‍♂️ ランニング / 🌌 宇宙物理が好き  
+- 💡 将来の目標: **Physics × AI で新しい研究やアプリを生み出す！**
