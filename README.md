@@ -29,8 +29,8 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 
 ## 📌 Featured Repositories
 - 💊 [**drug-recommendation-app**](https://github.com/32Lwk/medicine-recommend-system.git) — 機械学習を用いた医薬品推奨アプリ  
-- 🌐 [**web-dev-lab**](https://github.com/32Lwk/machisapo.git) — 地域住民が「困っていること」や「助けが必要なこと」を投稿できるマップ型アプリ
-- 🌐 [**web-dev-lab**](https://github.com/32Lwk/ReNU-) — 新入生歓迎活動におけるwebアプリケーション
+- 🌐 [**まちサポ**](https://github.com/32Lwk/machisapo.git) — 地域住民が「困っていること」や「助けが必要なこと」を投稿できるマップ型アプリ
+- 🌐 [**ReNU打**](https://github.com/32Lwk/ReNU-) — 新入生歓迎活動におけるwebアプリケーション
 
 ---
 
