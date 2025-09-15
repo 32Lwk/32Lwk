@@ -28,9 +28,9 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 ---
 
 ## 📌 Featured Repositories
-- 🔬 [**n-body-simulation**](https://github.com/32Lwk/n-body-simulation) — 宇宙の大規模構造を再現するシミュレーション  
-- 💊 [**drug-recommendation-app**](https://github.com/32Lwk/drug-recommendation-app) — 機械学習を用いた医薬品推奨アプリ  
-- 🌐 [**web-dev-lab**](https://github.com/32Lwk/web-dev-lab) — Webアプリ開発の実験的リポジトリ  
+- 💊 [**drug-recommendation-app**](https://github.com/32Lwk/medicine-recommend-system.git) — 機械学習を用いた医薬品推奨アプリ  
+- 🌐 [**web-dev-lab**](https://github.com/32Lwk/machisapo.git) — 地域住民が「困っていること」や「助けが必要なこと」を投稿できるマップ型アプリ
+- 🌐 [**web-dev-lab**](https://github.com/32Lwk/ReNU-) — 新入生歓迎活動におけるwebアプリケーション
 
 ---
 
