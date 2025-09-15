@@ -14,15 +14,11 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 ---
 
 ## 🚀 GitHub Activity
-<p align="center"> 
-  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=32Lwk&theme=tokyonight&show_icons=true" />
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=your-username&theme=vue-dark&show_icons=true" />
   <br>
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=tokyonight&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=32Lwk&theme=tokyonight&column=7" />
-</p>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=vue-dark&layout=compact" />
+</div>
 
 ---
 
