@@ -1,6 +1,6 @@
 <!-- ビューカウンター -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=your-username" />
+  <img src="https://komarev.com/ghpvc/?username=32Lwk" />
 </div>
 
 <!-- 挨拶・自己紹介 -->
@@ -31,8 +31,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=your-username&theme=vue-dark&show_icons=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=vue-dark&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=32Lwk&theme=vue-dark&show_icons=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact" />
 </div>
 
 ---
