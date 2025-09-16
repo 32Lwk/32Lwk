@@ -30,7 +30,7 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 ## 📌 Featured Repositories
 - 💊 [**drug-recommendation-app**](https://github.com/32Lwk/medicine-recommend-system.git) — 機械学習を用いた医薬品推奨アプリ  
 - 🗾 [**まちサポ**](https://github.com/32Lwk/machisapo.git) — 地域住民が「困っていること」や「助けが必要なこと」を投稿できるマップ型アプリ
-- 🧳 [**TravelBUddy**]([https://github.com/32Lwk/machisapo.git](https://github.com/32Lwk/TravelBoddy)) — 旅行の出費管理 × 思い出可視化アプリ
+- 🧳 [**TravelBuddy**](https://github.com/32Lwk/TravelBoddy) — 旅行の出費管理 × 思い出可視化アプリ
 - 🌐 [**ReNU打**](https://github.com/32Lwk/ReNU-) — 新入生歓迎活動におけるwebアプリケーション
 - 
 
