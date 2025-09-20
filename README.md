@@ -24,8 +24,8 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 
 ## 📊 Code Stats
 <p align="center">
-  <!-- 総行数バッジ -->
-  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/32Lwk/your-gist-id/raw/loc.json&logo=github&color=blueviolet" />
+  <!-- 総行数バッジ（公開＋非公開リポジトリ） -->
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/32Lwk/32Lwk/main/shield.json&logo=github&color=blueviolet" />
 </p>
 
 <p align="center">
