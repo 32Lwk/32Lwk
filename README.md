@@ -22,6 +22,20 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 
 ---
 
+## 📊 Code Stats
+<p align="center">
+  <!-- 総行数バッジ -->
+  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/32Lwk/your-gist-id/raw/loc.json&logo=github&color=blueviolet" />
+</p>
+
+<p align="center">
+  <!-- Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=32Lwk&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=32Lwk&theme=tokyonight" />
+</p>
+
+---
+
 ## 🛠️ Skills
 <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" />
 
