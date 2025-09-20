@@ -22,20 +22,17 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 
 ---
 
-## 🚀 GitHub Stats
-<div align="center">
+## 📊 Code Stats
+<p align="center">
+  <!-- 総行数バッジ -->
+  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/32Lwk/your-gist-id/raw/loc.json&logo=github&color=blueviolet" />
+</p>
 
-  <!-- 総コード行数（公開のみ） -->
-  [![](https://github-profile-summary-cards.vercel.app/api/cards/lines-of-code?username=32Lwk&theme=tokyonight)]()
-
-  <!-- 言語別統計 -->
-  [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=32Lwk&theme=tokyonight)]()
-  [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=32Lwk&theme=tokyonight)]()
-
-  <!-- GitHub Stats -->
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=32Lwk&theme=vue-dark&show_icons=true" />
-
-</div>
+<p align="center">
+  <!-- Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=32Lwk&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=32Lwk&theme=tokyonight" />
+</p>
 
 ---
 
