@@ -15,9 +15,10 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 
 ## 🚀 GitHub Activity
 <div align="center">
-  <img height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact" />
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact" />
   <br>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=32Lwk&theme=vue-dark&show_icons=true" />
+  
+  <!--<img height="200px" src="https://github-readme-stats.vercel.app/api?username=32Lwk&theme=vue-dark&show_icons=true" />
 </div>
 
 ---
