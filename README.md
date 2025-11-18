@@ -13,7 +13,7 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 
 ---
 
-## 🚀 GitHub Activity
+## 🚀 GitHub Activity(公開リポジトリの関係で割合がバグっています)
 <div align="center">
   <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact" />
   <br>
