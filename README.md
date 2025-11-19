@@ -39,8 +39,8 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 ---
 
 ## 📫 Contact
-- 📧 Mail: **weary-scoots.7y@icloud.com**  
-
+- 📧 Mail: **weary-scoots.7y[at]icloud.com**  
+【at】を＠に換えて送信してください
 ---
 
 ## 🌱 Fun Fact
