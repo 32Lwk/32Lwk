@@ -38,7 +38,7 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring
 - 🧑‍🌾 [**Agrirecruite**](https://github.com/32Lwk/AgriTech) — 愛知県豊橋における農業募集アプリケーション
 ---
 
-## 📫 Contact
+## [📫 Contact](https://forms.gle/UiBEj5q9vqWrmD3D7)
 - 📧 Mail: **weary-scoots.7y[at]icloud.com**  
 【at】を＠に換えて送信してください
 ---
