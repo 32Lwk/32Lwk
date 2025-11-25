@@ -23,18 +23,18 @@ My primary focus lies in **Computational Physics**, specifically N-body simulati
 
 ## 🚀 Activity & Analytics
 <div align="center">
-  <img src="./profile-summary-card-output/vue/0-profile-details.svg" width="48%" />
-  <img src="./profile-summary-card-output/vue/4-productive-time.svg" width="48%" />
+  <img src="./profile-summary-card-output/vue/0-profile-details.svg" width="48%" alt="Profile Details" />
+  <img src="./profile-summary-card-output/vue/4-productive-time.svg" width="48%" alt="Productive Time" />
   <br>
-  <img src="./profile-summary-card-output/vue/2-most-commit-language.svg" width="48%" />
-  <img src="./profile-summary-card-output/vue/3-commit-in-workday.svg" width="48%" />
+  <img src="./profile-summary-card-output/vue/2-most-commit-language.svg" width="48%" alt="Language Stats Pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact&hide=jupyter%20notebook" width="48%" alt="Top Languages Bar" />
 </div>
 
 <br>
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" alt="Skills" />
 </div>
 
 ---
