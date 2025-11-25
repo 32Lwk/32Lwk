@@ -3,33 +3,38 @@
 </div>
 
 <div align="center">
-  <h2>👋 Hi there, I'm Yuto Kawashima (川嶋 宥翔)</h2>
-  <h3>Physics Student @Nagoya Univ. | Aspiring AI × Physics Developer</h3>
+  <h1>Hi there, I'm Yuto Kawashima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
-  <p>
-    On GitHub, I share apps, simulations, and tools I’m building while exploring:<br>
-    <b>Machine Learning, AI, Data Analysis, Web Development, and Physics.</b>
-  </p>
+  <a href="https://github.com/32Lwk">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A965F2&center=true&vCenter=true&width=600&lines=Physics+Student+at+Nagoya+Univ.;Aspiring+AI+%C3%97+Physics+Developer;Simulating+the+Universe+with+Code." alt="Typing SVG" />
+  </a>
 </div>
+
+<br>
+
+### 🧑‍🔬 About Me
+I am a **Physics student at Nagoya University**, passionate about bridging the gap between **Theoretical Astrophysics** and **Artificial Intelligence**. 
+
+My primary focus lies in **Computational Physics**, specifically N-body simulations, and exploring how Machine Learning can solve complex physical problems. Currently, I am developing scalable web applications and data analysis tools while conducting research with the goal of joining the **C-Lab (Theoretical Astrophysics)**.
+
+> *"Exploring the cosmos through the lens of code."*
 
 ---
 
-## 🚀 GitHub Activity & Analytics
+## 🚀 Activity & Analytics
 <div align="center">
-  <img src="./profile-summary-card-output/vue/0-profile-details.svg" width="48%" alt="Profile Details" />
-  <img src="./profile-summary-card-output/vue/4-productive-time.svg" width="48%" alt="Productive Time" />
+  <img src="./profile-summary-card-output/vue/0-profile-details.svg" width="48%" />
+  <img src="./profile-summary-card-output/vue/4-productive-time.svg" width="48%" />
   <br>
-  
-  <img src="./profile-summary-card-output/vue/2-most-commit-language.svg" width="48%" alt="Language Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact&hide=jupyter%20notebook&count_private=true" width="48%" alt="Top Languages Bar" />
+  <img src="./profile-summary-card-output/vue/2-most-commit-language.svg" width="48%" />
+  <img src="./profile-summary-card-output/vue/3-commit-in-workday.svg" width="48%" />
 </div>
 
 <br>
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" />
 </div>
 
 ---
@@ -57,25 +62,19 @@
 ## 🤝 Let's Connect
 
 <div align="center">
+  <p>If you are interested in my work or research in Astrophysics, feel free to reach out!</p>
   
-  <p>
-    🚀 <b>Goal:</b> Join the <b>C-Lab (Theoretical Astrophysics)!</b> 🌌
-  </p>
-
-  <br>
-  
-  <a href="https://forms.gle/UiBEj5q9vqWrmD3D7" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Contact%20Form-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Google Form" height="28" />
+  <a href="mailto:weary-scoots.7y@icloud.com">
+    <img src="https://img.shields.io/badge/Email-weary--scoots.7y%40icloud.com-black?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
   </a>
-  
-  <p>
-    📧 <code>weary-scoots.7y[at]icloud.com</code>
-  </p>
+  &nbsp;
+  <a href="https://forms.gle/UiBEj5q9vqWrmD3D7" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_Form-Open-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Google Form" />
+  </a>
 
-  ---
+  <br><br>
   
-  <p>
-    🌱 <b>Hobbies:</b> Tennis 🎾 / Running 🏃‍♂️ / Astrophysics 🔭
-  </p>
-
+  <code>🎾 Tennis</code> • <code>🏃‍♂️ Running</code> • <code>🔭 Astrophysics</code>
+  <br>
+  <b>Goal: Join the C-Lab!</b>
 </div>
