@@ -16,19 +16,20 @@
 
 ## 🚀 GitHub Activity & Analytics
 <div align="center">
-  <img src="./profile-summary-card-output/vue/0-profile-details.svg" width="48%" />
-  <img src="./profile-summary-card-output/vue/4-productive-time.svg" width="48%" />
+  <img src="./profile-summary-card-output/vue/0-profile-details.svg" width="48%" alt="Profile Details" />
+  <img src="./profile-summary-card-output/vue/4-productive-time.svg" width="48%" alt="Productive Time" />
   <br>
   
-  <img src="./profile-summary-card-output/vue/2-most-commit-language.svg" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact&hide=jupyter%20notebook" width="48%" />
+  <img src="./profile-summary-card-output/vue/2-most-commit-language.svg" width="48%" alt="Language Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact&hide=jupyter%20notebook&count_private=true" width="48%" alt="Top Languages Bar" />
 </div>
 
 <br>
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" alt="Skills" />
 </div>
 
 ---
@@ -53,16 +54,28 @@
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
+
 <div align="center">
-  <p>I am aiming to join the <b>C-Lab (Theoretical Astrophysics)!</b> 🌌</p>
+  
+  <p>
+    🚀 <b>Goal:</b> Join the <b>C-Lab (Theoretical Astrophysics)!</b> 🌌
+  </p>
+
+  <br>
   
   <a href="https://forms.gle/UiBEj5q9vqWrmD3D7" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Contact_Form-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Google Form" />
+    <img src="https://img.shields.io/badge/-Contact%20Form-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Google Form" height="28" />
   </a>
-  <br><br>
   
-  <code>📧 weary-scoots.7y[at]icloud.com</code>
-  <br><br>
-  🎾 <b>Tennis</b> &nbsp;|&nbsp; 🏃‍♂️ <b>Running</b> &nbsp;|&nbsp; 🔭 <b>Astrophysics</b>
+  <p>
+    📧 <code>weary-scoots.7y[at]icloud.com</code>
+  </p>
+
+  ---
+  
+  <p>
+    🌱 <b>Hobbies:</b> Tennis 🎾 / Running 🏃‍♂️ / Astrophysics 🔭
+  </p>
+
 </div>
