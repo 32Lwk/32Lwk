@@ -13,7 +13,7 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring:
 
 ## 🚀 GitHub Activity
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact&hide=jupyter%20notebook&exclude_repo=フォークした重いリポジトリ名" />
   
   </div>
 
@@ -48,7 +48,7 @@ On GitHub, I share apps, simulations, and tools I’m building while exploring:
 
 ## 📫 Contact
 <div align="center">
-  <a href="https://forms.gle/UiBEj5q9vqWrmD3D7">
+  <a href="https://forms.gle/UiBEj5q9vqWrmD3D7" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Contact_Form-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Google Form" />
   </a>
   <br>
