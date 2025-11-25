@@ -5,6 +5,11 @@ on:
     - cron: "* */24 * * *"
   workflow_dispatch:
 
+# ▼▼▼ 重要: これを追加してください ▼▼▼
+permissions:
+  contents: write
+# ▲▲▲ ここまで ▲▲▲
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,6 +19,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          # ▼▼▼ 変更点: secrets.TOKEN ではなく secrets.GITHUB_TOKEN を推奨 ▼▼▼
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
