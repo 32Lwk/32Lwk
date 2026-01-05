@@ -26,7 +26,7 @@ My primary focus lies in **Computational Physics**, specifically N-body simulati
   <img src="./profile-summary-card-output/vue/0-profile-details.svg" width="48%" alt="Profile Details" />
   <img src="./profile-summary-card-output/vue/4-productive-time.svg" width="48%" alt="Productive Time" />
   <br>
-  <img src="./profile-summary-card-output/vue/2-most-commit-language.svg" width="48%" alt="Language Stats Pie" />
+  <img src="./profile-summary-card-output/vue/1-repos-per-language.svg" width="48%" alt="Language Stats Pie" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact&hide=jupyter%20notebook" width="48%" alt="Top Languages Bar" />
 </div>
 
