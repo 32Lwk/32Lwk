@@ -44,6 +44,8 @@ My primary focus lies in **Computational Physics**, specifically N-body simulati
 ### 💻 Web & AI Development
 - 💊 [**medicine-recommendation-app**](https://github.com/32Lwk/medicine-recommend-system.git)
   - 機械学習を用いた医薬品推奨アプリ (AI-powered Medicine Recommendation)
+- 💊 [**latent-space-medicine**](https://github.com/32Lwk/latent-space-medicine.git)
+  - 潜在空間を用いたOTC医薬品の評価と症状の一致度検出 (Evaluation of OTC Drugs and Symptom Matching using Latent Space)
 - 🔮 [**Hidden Treatment Mode Estimation & Cancellation under Uncertainty**](https://github.com/32Lwk/Hidden-Treatment-Mode-Estimation-Cancellation-under-Uncertainty.git)
   - リスク指向型ベイズ停止モデル × 処置モードHMM による日比耳鼻咽喉科の待ち時間予測モデル(Risk-Oriented Bayesian Stopping Model × Treatment-Mode Hidden Markov Model for Predicting Waiting Times)
 - 🗾 [**まちサポ (Machi-Sapo)**](https://github.com/32Lwk/machisapo.git)
