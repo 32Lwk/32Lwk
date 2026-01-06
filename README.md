@@ -60,7 +60,8 @@ My primary focus lies in **Computational Physics**, specifically N-body simulati
   - 多数の粒子間の重力相互作用を計算し、時間発展や運動を予測 (Gravitational N-body Simulation)
 - 🪙 [**硬貨識別 (Coin Identifier)**](https://github.com/32Lwk/coin_identifier/blob/master/README.md)
   - YOLO v8を用いて正確に硬貨の種類を識別 (Coin Detection using YOLO v8)
-
+- 🪙 [**データ復元ツール (Memory recovery tool)**](https://github.com/32Lwk/Memory-recovery-tool)
+  - RAWリカバリ技術を用いて、ファイルシグネチャに基づいてデータを復元します。 (RAW recovery technology is used to recover data based on file signatures)
 ---
 
 ## 🤝 Let's Connect
