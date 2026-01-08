@@ -62,7 +62,7 @@ My primary focus lies in **Computational Physics**, specifically N-body simulati
   - YOLO v8を用いて正確に硬貨の種類を識別 (Coin Detection using YOLO v8)
 - 💾 [**データ復元ツール (Memory recovery tool)**](https://github.com/32Lwk/Memory-recovery-tool)
   - RAWリカバリ技術を用いて、ファイルシグネチャに基づいてデータを復元します。 (RAW recovery technology is used to recover data based on file signatures)
-- 💾 [**多言語モンテカルロ法 (monte-carlo-pi-multi-language
+- 🎂 [**多言語モンテカルロ法 (monte-carlo-pi-multi-language
 )**](https://github.com/32Lwk/monte-carlo-pi-multi-language)
   - モンテカルロ法による円周率計算を各言語の特性・書き方の学習とパフォーマンス比較を行うベンチマークプロジェクト。 (A benchmark project that uses the Monte Carlo method to learn the characteristics and writing styles of each language and compare performance when calculating pi.)
 ---
