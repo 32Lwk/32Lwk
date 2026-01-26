@@ -16,21 +16,17 @@
 
 <div align="left">
 
-**日本語：**
+名古屋大学理学部物理学科2年生です。**理論天体物理学**、特に **宇宙の大規模構造** に興味があり、将来は名古屋大学の **宇宙論研究室（C-Lab）** で研究できればと考えています。
 
-名古屋大学理学部物理学科2年生です。**理論天体物理学**、特に**宇宙の大規模構造**に興味があり、将来は名古屋大学の**宇宙論研究室（C-Lab）**で研究できればと考えています。
-
-**計算物理学**と**機械学習**を組み合わせた研究に取り組んでみたいと思っており、N-bodyシミュレーションや宇宙の構造形成の数値計算を学んでいます。
+**計算物理学**=と**機械学習**を組み合わせた研究に取り組んでみたいと思っており、N-bodyシミュレーションや宇宙の構造形成の数値計算を学んでいます。
 
 課外活動として、**社会課題解決**にも取り組んでいます。和歌山県有田川町出身という経験から、地域医療の課題を実感しました。現在は**登録販売者**として勤務する中で、高齢者や外国人の服薬相談の困難さ、慢性的な人手不足などの現場課題を目の当たりにしています。これらの課題を少しでも解決できればと思い、**医薬品推奨チャットツール**を約1〜2年間、個人開発で進めています。
 
 技術的には、**ルールベース × AI のハイブリッド構成**を採用し、LLMに丸投げせず、医薬品の禁忌・相互作用・年齢制限などをコードで厳格に判定するシステムを構築しています。インメモリ処理や2段階トリアージ、Aho-Corasick法などを活用し、サーバーレス環境でも高速に動作するよう試行錯誤しています。
 
-**English：**
-
 I'm a 2nd-year undergraduate student in the Department of Physics at Nagoya University. I'm interested in **theoretical astrophysics**, particularly **large-scale structure of the universe**, and hope to conduct research at Nagoya University's **Cosmology Laboratory (C-Lab)** in the future.
 
-Even as a 2nd-year student, I'm eager to explore research that combines **computational physics** and **machine learning**, and I'm currently learning about N-body simulations and numerical calculations of cosmic structure formation.
+I'm eager to explore research that combines **computational physics** and **machine learning**, and I'm currently learning about N-body simulations and numerical calculations of cosmic structure formation.
 
 Beyond academics, I'm also working on **solving social challenges**. Coming from Aridagawa, Wakayama Prefecture, I've experienced firsthand the difficulties in accessing healthcare. Currently working as a **registered salesperson**, I've witnessed challenges such as difficulties in medication counseling for elderly people and foreigners, as well as chronic staff shortages. To address these issues, I've been developing a **medicine recommendation chat tool** for about 1-2 years as a personal project.
 
