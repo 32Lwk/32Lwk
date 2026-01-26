@@ -12,12 +12,77 @@
 
 <br>
 
-### 🧑‍🔬 About Me
-I am a **Physics student at Nagoya University**, passionate about bridging the gap between **Theoretical Astrophysics** and **Artificial Intelligence**. 
+### 🧑‍🔬 About Me / 自己紹介
 
-My primary focus lies in **Computational Physics**, specifically N-body simulations, and exploring how Machine Learning can solve complex physical problems. Currently, I am developing scalable web applications and data analysis tools while conducting research with the goal of joining the **C-Lab (Theoretical Astrophysics)**.
+<div align="left">
 
-> *"Exploring the cosmos through the lens of code."*
+**日本語：**
+
+名古屋大学理学部物理学科2年生です。**理論天体物理学**、特に**宇宙の大規模構造**に興味があり、将来は名古屋大学の**宇宙論研究室（C-Lab）**で研究できればと考えています。
+
+**計算物理学**と**機械学習**を組み合わせた研究に取り組んでみたいと思っており、N-bodyシミュレーションや宇宙の構造形成の数値計算を学んでいます。
+
+課外活動として、**社会課題解決**にも取り組んでいます。和歌山県有田川町出身という経験から、地域医療の課題を実感しました。現在は**登録販売者**として勤務する中で、高齢者や外国人の服薬相談の困難さ、慢性的な人手不足などの現場課題を目の当たりにしています。これらの課題を少しでも解決できればと思い、**医薬品推奨チャットツール**を約1〜2年間、個人開発で進めています。
+
+技術的には、**ルールベース × AI のハイブリッド構成**を採用し、LLMに丸投げせず、医薬品の禁忌・相互作用・年齢制限などをコードで厳格に判定するシステムを構築しています。インメモリ処理や2段階トリアージ、Aho-Corasick法などを活用し、サーバーレス環境でも高速に動作するよう試行錯誤しています。
+
+**English：**
+
+I'm a 2nd-year undergraduate student in the Department of Physics at Nagoya University. I'm interested in **theoretical astrophysics**, particularly **large-scale structure of the universe**, and hope to conduct research at Nagoya University's **Cosmology Laboratory (C-Lab)** in the future.
+
+Even as a 2nd-year student, I'm eager to explore research that combines **computational physics** and **machine learning**, and I'm currently learning about N-body simulations and numerical calculations of cosmic structure formation.
+
+Beyond academics, I'm also working on **solving social challenges**. Coming from Aridagawa, Wakayama Prefecture, I've experienced firsthand the difficulties in accessing healthcare. Currently working as a **registered salesperson**, I've witnessed challenges such as difficulties in medication counseling for elderly people and foreigners, as well as chronic staff shortages. To address these issues, I've been developing a **medicine recommendation chat tool** for about 1-2 years as a personal project.
+
+Technically, I'm building a system using a **hybrid approach of rule-based logic and AI**, strictly checking drug contraindications, interactions, and age restrictions in code rather than relying entirely on LLMs. I'm experimenting with in-memory processing, two-stage triage, and the Aho-Corasick algorithm to optimize performance in serverless environments.
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" alt="Skills" />
+</div>
+
+**主な技術 / Main Technologies:**
+- **Backend**: Python, Flask, Flask-SocketIO, Pandas
+- **Frontend**: HTML, CSS, JavaScript
+- **AI/ML**: OpenAI API (GPT-4o), DeepL API
+- **Infrastructure**: Render
+- **Others**: Aho-Corasick algorithm, In-memory processing, Two-stage triage
+
+**学習中 / Currently Learning:**
+- C, Rust, C++, Go, Swift
+- より高度な計算物理学の手法
+- 並列計算・GPU計算
+
+---
+
+## 💭 What I'm Working On / 最近取り組んでいること
+
+<div align="left">
+
+- 🌌 **宇宙論の基礎学習**: 大規模構造形成の理論と数値計算手法を学んでいます
+- 💊 **医薬品推奨ツールの開発**: 安全性と使いやすさの両立を目指して改善を続けています
+- 📚 **計算物理学の実践**: N-bodyシミュレーションやモンテカルロ法などの数値計算を実装しながら学んでいます
+- 🦀 **Rustの学習**: システムプログラミングとパフォーマンス最適化に興味があります
+
+</div>
+
+---
+
+## 🏆 Recent Activities / 最近の活動
+
+<div align="left">
+
+- 🥇 学生生成AIコンテスト（ユメカタリ）: 最優秀賞
+- 🥈 椙山女学園大学 第13回ビジネスコンペティション: 優秀賞
+- 🎯 dodaキャリアゲートウェイ2025-アイデアコンペティション: 審査員特別賞
+- 🚀 AWS デジタル社会実現ツアー2025 名古屋: 本戦出場
+
+</div>
 
 ---
 
@@ -32,11 +97,6 @@ My primary focus lies in **Computational Physics**, specifically N-body simulati
 
 <br>
 
-## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" alt="Skills" />
-</div>
-
 ---
 
 ## 📌 Featured Repositories
@@ -44,6 +104,7 @@ My primary focus lies in **Computational Physics**, specifically N-body simulati
 ### 💻 Web & AI Development
 - 💊 [**medicine-recommendation-app**](https://github.com/32Lwk/medicine-recommend-system.git)
   - 機械学習を用いた医薬品推奨アプリ (AI-powered Medicine Recommendation)
+  - ルールベース × AI のハイブリッド構成で安全性を重視したチャットツール
 - 💊 [**latent-space-medicine**](https://github.com/32Lwk/latent-space-medicine.git)
   - 潜在空間を用いたOTC医薬品の評価と症状の一致度検出 (Evaluation of OTC Drugs and Symptom Matching using Latent Space)
 - 🔮 [**Hidden Treatment Mode Estimation & Cancellation under Uncertainty**](https://github.com/32Lwk/Hidden-Treatment-Mode-Estimation-Cancellation-under-Uncertainty.git)
@@ -62,18 +123,22 @@ My primary focus lies in **Computational Physics**, specifically N-body simulati
   - YOLO v8を用いて正確に硬貨の種類を識別 (Coin Detection using YOLO v8)
 - 💾 [**データ復元ツール (Memory recovery tool)**](https://github.com/32Lwk/Memory-recovery-tool)
   - RAWリカバリ技術を用いて、ファイルシグネチャに基づいてデータを復元します。 (RAW recovery technology is used to recover data based on file signatures)
-- 🎂 [**多言語モンテカルロ法 (monte-carlo-pi-multi-language
-)**](https://github.com/32Lwk/monte-carlo-pi-multi-language)
+- 🎂 [**多言語モンテカルロ法 (monte-carlo-pi-multi-language)**](https://github.com/32Lwk/monte-carlo-pi-multi-language)
   - モンテカルロ法による円周率計算を各言語の特性・書き方の学習とパフォーマンス比較を行うベンチマークプロジェクト。 (A benchmark project that uses the Monte Carlo method to learn the characteristics and writing styles of each language and compare performance when calculating pi.)
+
 ---
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  <p>If you are interested in my work or research in Astrophysics, feel free to reach out!</p>
+  <p></p>
   
   <a href="mailto:weary-scoots.7y@icloud.com">
     <img src="https://img.shields.io/badge/Email-weary--scoots.7y%40icloud.com-black?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/宥翔-川嶋-508b42388?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://forms.gle/UiBEj5q9vqWrmD3D7" target="_blank">
@@ -84,5 +149,5 @@ My primary focus lies in **Computational Physics**, specifically N-body simulati
   
   <code>🎾 Tennis</code> • <code>🏃‍♂️ Running</code> • <code>🔭 Astrophysics</code>
   <br>
-  <b>Goal: Join the C-Lab!</b>
+  <b>Goal: Join the C-Lab! / 目標: C-Labへの参加！</b>
 </div>
