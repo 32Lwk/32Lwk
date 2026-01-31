@@ -53,6 +53,7 @@ Technically, I'm building a system using a **hybrid approach of rule-based logic
 - C, Rust, C++, Go, Swift
 - より高度な計算物理学の手法
 - 並列計算・GPU計算
+- AWS,GCP
 
 ---
 
