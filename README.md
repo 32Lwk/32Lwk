@@ -6,7 +6,7 @@
   <h1>Hi there, I'm Yuto Kawashima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
   <a href="https://github.com/32Lwk">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A965F2&center=true&vCenter=true&width=600&lines=Physics+Student+at+Nagoya+Univ.;Aspiring+AI+%C3%97+Physics+Developer;Simulating+the+Universe+with+Code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A965F2&center=true&vCenter=true&width=600&lines=Physics+Student+at+Nagoya+Univ.;Aspiring+AI+%C3%97+Physics+Developer;Simulating+the+Universe+with+Code.;Every+thing+as+Code." alt="Typing SVG" />
   </a>
 </div>
 
