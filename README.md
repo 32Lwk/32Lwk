@@ -29,7 +29,7 @@ I'm eager to explore research that combines **computational physics** and **mach
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,c,js,cpp,html,css,react,next,fastapi,aws,docker,linux,git&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,rust,c,swift,js,cpp,html,css,react,next,fastapi,aws,gcp,docker,linux,git&theme=dark" alt="Skills" />
 </div>
 
 **主な技術 / Main Technologies:**
