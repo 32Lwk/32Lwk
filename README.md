@@ -13,9 +13,9 @@
 <br>
 
 ### 🧑‍🔬 About Me
-I am a **Physics student at Nagoya University**, passionate about bridging the gap between **Theoretical Astrophysics** and **Artificial Intelligence**. 
+I am an undergraduate Physics student at Nagoya University with a strong interest in both Theoretical Astrophysics and Artificial Intelligence.
 
-My primary focus lies in **Computational Physics**, specifically N-body simulations, and exploring how Machine Learning can solve complex physical problems. Currently, I am developing scalable web applications and data analysis tools while conducting research with the goal of joining the **C-Lab (Theoretical Astrophysics)**.
+In addition, I am developing web applications and data analysis tools to expand my technical skills, with the long-term goal of contributing to research in theoretical astrophysics.
 
 > *"Exploring the cosmos through the lens of code."*
 
