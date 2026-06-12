@@ -25,11 +25,10 @@ In addition, I am developing web applications and data analysis tools to expand 
 <div align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
   <br><br>
-  <img src="./profile-summary-card-output/vue/0-profile-details.svg" width="48%" alt="Profile Details" />
+  <img src="./profile-summary-card-output/vue/3-stats.svg" width="48%" alt="GitHub Stats" />
   <img src="./profile-summary-card-output/vue/4-productive-time.svg" width="48%" alt="Productive Time" />
   <br>
-  <img src="./profile-summary-card-output/vue/2-most-commit-language.svg" width="48%" alt="Language Stats Pie" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Lwk&theme=vue-dark&layout=compact&hide=jupyter%20notebook" width="48%" alt="Top Languages Bar" />
+  <img src="./profile-summary-card-output/vue/2-most-commit-language.svg" width="48%" alt="Top Languages by Commit" />
 </div>
 
 <br>
