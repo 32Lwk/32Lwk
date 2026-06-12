@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=32Lwk&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+</div>
+
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Yuto%20Kawashima&fontSize=36&fontColor=a78bfa&animation=twinkling" width="100%" alt="Header" />
@@ -5,17 +9,6 @@
   <br />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C4B5FD&center=true&vCenter=true&width=620&lines=Physics+Student+%40+Nagoya+University;AI+%C3%97+Physics+%C3%97+Software;Simulating+the+Universe+with+Code" alt="Typing SVG" />
-
-  <br />
-
-  <a href="https://yutok.dev"><img src="https://img.shields.io/badge/Portfolio-yutok.dev-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://medicine.yutok.dev"><img src="https://img.shields.io/badge/Demo-medicine.yutok.dev-0891b2?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo" /></a>
-  <a href="https://www.linkedin.com/in/kawashimayuto/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:weary-scoots.7y@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=32Lwk&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -87,9 +80,11 @@ Web applications and data analysis tools — with the long-term goal of contribu
 
   <p>Interested in astrophysics, AI, or collaborative projects?<br />Feel free to reach out — I'd love to connect.</p>
 
-  <a href="https://forms.gle/UiBEj5q9vqWrmD3D7" target="_blank">
-    <img src="https://img.shields.io/badge/Contact_Form-Open-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Contact Form" />
-  </a>
+  <a href="https://yutok.dev"><img src="https://img.shields.io/badge/Portfolio-yutok.dev-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://medicine.yutok.dev"><img src="https://img.shields.io/badge/Demo-medicine.yutok.dev-0891b2?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo" /></a>
+  <a href="https://www.linkedin.com/in/kawashimayuto/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:weary-scoots.7y@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://forms.gle/UiBEj5q9vqWrmD3D7" target="_blank"><img src="https://img.shields.io/badge/Contact_Form-Open-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Contact Form" /></a>
 
   <br /><br />
 
