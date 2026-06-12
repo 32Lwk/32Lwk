@@ -68,7 +68,7 @@ Web applications and data analysis tools — with the long-term goal of contribu
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,flask,fastapi,docker,aws,linux,git,postgresql&theme=dark&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,latex,react,nextjs,flask,fastapi,docker,aws,linux,git,postgresql&theme=dark&perline=7" alt="Skills" />
 
 </div>
 
