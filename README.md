@@ -23,6 +23,8 @@ In addition, I am developing web applications and data analysis tools to expand 
 
 ## 🚀 Activity & Analytics
 <div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
+  <br><br>
   <img src="./profile-summary-card-output/vue/0-profile-details.svg" width="48%" alt="Profile Details" />
   <img src="./profile-summary-card-output/vue/4-productive-time.svg" width="48%" alt="Productive Time" />
   <br>
