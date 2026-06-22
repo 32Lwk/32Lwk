@@ -6,6 +6,10 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Yuto%20Kawashima&fontSize=36&fontColor=a78bfa&animation=twinkling" width="100%" alt="Header" />
 
+ <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C4B5FD&center=true&vCenter=true&width=620&lines=Physics+Student+%40+Nagoya+University;AI+%C3%97+Physics+%C3%97+Software;Simulating+the+Universe+with+Code" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -52,9 +56,6 @@ Web applications and data analysis tools — with the long-term goal of contribu
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub Stats" />
   <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time" />
 
-  <br />
-
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top Languages by Commit" />
 
 </div>
 
