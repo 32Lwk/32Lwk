@@ -35,7 +35,7 @@ Web applications and data analysis tools — with the long-term goal of contribu
 
 - 🎓 Physics @ Nagoya University
 - 💊 Building [medicine counseling tools](https://medicine.yutok.dev)
-- 🔭 Goal: join the **C-Lab**
+- 🔭 Goal: join the **?-Lab**
 
 > *"Exploring the cosmos through the lens of code."*
 
